@@ -1,0 +1,79 @@
+-----------------------------------------------------------------------------------------------------
+Professor Name: Ali ABBAS
+=====================================================================================================
+Professor Ali Abbas' research in Process Systems Engineering aims at increasing our understanding of multi-scalar processes - from the workings of power plants to those of the human body - enabling us to enhance them in methodical ways for the benefit of our health and that of our environment.
+"I am interested in understanding the intricate behaviour of systems and how they work at multiple scales in chemical process industries and in biomedical systems.
+"Two key areas I am currently tackling are low-emissions technologies and biomedical stem cell therapy.
+"In a fossil-fuelled power plant, for example, fuel such as coal or gas is combusted to generate steam, which turns turbines, which in turn rotate generators to produce the electricity we use every day. Such a power plant consists of numerous subsystems - including the boiler, the turbines, the steam cycle and the exhaust system - all of which must work together harmoniously to ensure reliable electricity production.
+"Similarly, the human body comprises many systems intricately working together, and I believe that the only way to resolve biomedical problems is to understand how the body's systems cooperate together at different scales - from genes to cells to tissues to organs to bodily systems.
+"This research has recently led to systematic methods to compute working fluids and materials having targeted properties that maximise the performance of processes, such as heat transfer fluids in heat pipes used in solar collectors; refrigerants in liquefied natural gas (LNG) processes; solvents in carbon capture processes; and membranes with optimal material properties required to carry out the most difficult gas separations, such separating hydrogen from nitrogen, both having similar molecular size and shape.
+"I am very passionate about knowledge, science and learning, and am always working to foster this passion in students and in the community. My goal is to have my research translate into real technologies and solutions, demonstrating its relevance to society and to solving real problems.
+"For example, my research into low-emissions technologies looks at how we can continue to use fossil fuels in more sustainable ways that do less harm to our environment, such as through carbon-capture technologies or the hybridisation of fossil power with renewable energy systems.
+"My research in biosystems engineering aims at optimising processes for stem cell culturing that lead to therapeutic solutions for people with chronic diseases, such as leukaemia.
+"My journey at the University of Sydney started as a student in 1997; I completed both my undergraduate and postgraduate degrees here, and have been an academic staff member here since 2007. This great institution means a lot to me, because it has given me a lot of opportunity. Throughout my education I had tremendous mentors, whose passion for education and research continues to inspire my own aspirations in education and research."
+Ali is Professor of Chemical Engineering and SOAR Fellow at the University of Sydney in the
+School of Chemical and Biomolecular Engineering
+. He is Acting Head of School, and is Founding Director of the Waste Transformation Research Hub, a national centre aimed at addressing the waste industry’s research and technological challenges. He is the founder and director of the Laboratory for Multiscale Systems.
+Ali received both his Bachelors and PhD in Chemical Engineering from the University of Sydney, Australia. He has held previous academic appointments at NTU (Singapore) and UNSW Asia (Singapore) and visiting professor positions at several institutions including Harvard.
+Ali has 20 years’ experience in the field of Process Systems Engineering, with expertise in process intensification and design, techno-economic feasibility, process scale-up / optimal operation, with applications in low-emissions technologies, Eco-industrial parks, waste, clean energy, biotechnology and biomedical systems.
+In recent years, Ali has been working on circular economy transitions, identifying ways to translate the circular economy principles into practice. Ali is a leading Australian figure in circular economy and Chairs the
+Australian Circular Economy Conference.
+He conducts fundamental computational and applied research with emphasis on multi-scale systems resource optimisation and efficiency, and has published more than 130 papers in international scientific and engineering journals.
+Ali is the recipient of multiple awards including the Australia-Harvard Fellowship 2011 as well as the Academy of Technological Sciences and Engineering (ATSE) Fellowship 2012 (Australia-China Future Leader in Clean Coal Technologies). In 2008, A/Prof. Abbas was awarded the PSE Model-based innovation prize (London, UK) recognising his work in model-based optimal process operations, and received the same award as runner-up in 2015. He received the inaugural Sydney Research Accelerator (SOAR) fellowship for University’s most talented researchers in recognition of research leadership.
+Ali provides consultations to industry and Government, and is active in commercialization activities, developing breakthrough deep technologies across multiple industry sectors in his capacity as company Founder and Director.
+show more
+show less
+Materials and structures
+Project title
+Research student
+Advancing Healthcare through Molecular Nanobots: A Comprehensive Investigation
+Wenjing                                     CHEN
+Towards a New Multifilm Mass Transfer Theory for Food Digestion: Improving the Understanding of In-Vitro Digestion through Transport Phenomena and Reaction Engineering
+Shu                                     CHENG
+In vitro digestion study for Glycemic Index measurement of single food and correction with in vivo method
+Daisy                                     SUN
+-----------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------
+Professor Name: Damian ABOOD
+=====================================================================================================
+Robotics
+-----------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------
+Professor Name: Nasim AHMED
+=====================================================================================================
+Nasim Ahmed holds the position of Lecturer within the School of Computer Science at The University of Sydney. He achieved a Ph.D. in Computer Science from Massey University, New Zealand, in 2022, and obtained an MSc in Computer Engineering from the University Malaysia Perlis, Malaysia, in 2009. His research interests span diverse areas including data science applications in healthcare and agriculture, big data clusters, artificial intelligence's role in education (specifically policymaking and industry), and data security. Beyond his academic pursuits, Nasim Ahmed is recognized as a Senior member of IEEE, holds membership in IET, and is a Professional Chartered Engineer (CEng) accredited by the UK Engineering Council.
+show more
+show less
+-----------------------------------------------------------------------------------------------------
+
+
+-----------------------------------------------------------------------------------------------------
+Professor Name: David AIREY
+=====================================================================================================
+Humans have been erecting buildings for millennia, but our understanding of the behaviour of the soil and rock on which they rest is still relatively poor. Professor David Airey's research aims to improve our understanding of the ground's response to construction and excavation so we can better assess the risks, reduce costs and build longer-lasting infrastructure.
+"Everyone is affected by failure to properly understand soil and rock behaviour. For example, if excavations carried out as part of construction project result in a burst water main, this can cause disruptions to traffic and commuter chaos for days. Such a scenario might be avoidable if we had a better understanding of soil behaviours.
+"I also work on the evaluation of various ground improvement methods that are used to make the ground more stable.
+"As well as buildings on land, my work has applications to offshore structures such as oil and gas platforms. The sand beneath these platforms can be made up of different particles from soils on land, including coral particles, making them behave differently. Understanding these soil types and their behaviours is crucial when sinking the foundations for these structures and ensuring that they'll be stable and safe.
+"One of the challenges of working with underground behaviours is that they're all hidden - they're out of sight, and usually out of mind. So my ultimate goal is to develop models that can effectively 'see' into the soil and, combined with other instruments, allow us to truly understand what's going on under the ground."
+David Airey graduated from the University of Cambridge in 1979 with a BA in Engineering and stayed on to complete Masters and PhD degrees in Soil Mechanics. He took up a position as a research fellow at the University of Western Australia in 1987, and moved to the University of Sydney in 1989. Professor Airey was Acting Head of School of Civil Engineering during 2016.
+David Airey is on the editorial board of the Geotechnical Testing Journal, is a core member of TC29 a technical committee of the International Society for Geotechnical and Foundation Engineering concerned with pre-failure behaviour of geomaterials, and is a committee member of the Australian Geomechanics Society.
+show more
+show less
+Project title
+Research student
+AI-guided Soil Stabilisation Using Agro-Industrial Aluminosilicate Wastes
+Hamed                                     FAIZI
+Microplastics in clay: A growing risk of geoenvironmental pollution
+Yifei                                     GAO
+Achieving sustainable outcomes through the reuse of deep foundations and retaining structures, with particular reference to the presence of imperfections and development of remedial solutions
+Pawan                                     SETHI
+LIGHTLY LOADED ENERGY FARM FOUNDATIONS IN CRACKED DESICCATED SOILS
+Honey Sajan                                     THOMAS
+The effects of cyclic loading on partially saturated soils
+Jotheeshwar                                     VELAYUDHAM
+-----------------------------------------------------------------------------------------------------
+
