@@ -16,7 +16,7 @@ def scrape_links(url, driver):
     driver.get(url)
 
     # Wait for the div with id="staffListContent" to be present
-    WebDriverWait(driver, 10).until(
+    WebDriverWait(driver, 3).until(
         EC.presence_of_element_located((By.ID, "staffListContent"))
     )
 
@@ -143,20 +143,22 @@ def main():
                     print(f"Processing link: {link[0]}")
                     try:
                         content = extract_p_tags(link[1], driver)
-                        print(content)
                         # Save the content to a buffer
                         if content:
+                            print("Content found.")
                             buffer.append(
                                 f"{line}\nProfessor Name: {link[0]}\n{bar}\n{content}\n{line}\n\n"
                             )
+                        else:
+                            print("Null")
                     except Exception as e:
                         print(f"An error occurred while processing {link[0]}: {str(e)}")
 
                     # Add a small delay between iterations
                     time.sleep(1)
 
-                    if count > 3:
-                        break
+                    # if count > 3:
+                    #     break
 
                 # Write the buffer to the file once at the end
             except Exception as e:
